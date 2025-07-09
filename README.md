@@ -15,8 +15,11 @@
   - [Best Practices](#best-practices)
   - [Getting Started](#getting-started)
   - [Tools and Software](#tools-and-software)
+  - [Tools and Software Used](#tools-and-software-used)
   - [Practicals](#practicals)
     - [ERD - School Management System](#erd---school-management-system)
+    - [ERD - E-Commerce System](#erd---e-commerce-system)
+    - [ERD - Task Management System](#erd---task-management-system)
   - [Conclusion](#conclusion)
 
 ## Overview
@@ -86,14 +89,26 @@ Common ERD tools include:
 - Microsoft Visio
 
 
+## Tools and Software Used
+- Draw.io
+- VS Code
+
+
 
 ## Practicals
 
 ### ERD - School Management System
 
+![Name_of_Image](./images/university.drawio.png)
 
 
+### ERD - E-Commerce System
 
+![Name_of_Image](./images/e-commerce.drawio.png)
+
+### ERD - Task Management System
+
+![Name_of_Image](./images/task-management.drawio.png)
 
 
 ## Conclusion
