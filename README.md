@@ -20,6 +20,8 @@
     - [ERD - School Management System](#erd---school-management-system)
     - [ERD - E-Commerce System](#erd---e-commerce-system)
     - [ERD - Task Management System](#erd---task-management-system)
+      - [V1](#v1)
+      - [V2](#v2)
   - [Conclusion](#conclusion)
 
 ## Overview
@@ -108,8 +110,12 @@ Common ERD tools include:
 
 ### ERD - Task Management System
 
+#### V1
+
 ![Name_of_Image](./images/task-management.drawio.png)
 
+#### V2
+![Name_of_Image](./images/task-management2.drawio.png)
 
 ## Conclusion
 
