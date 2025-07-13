@@ -16,12 +16,14 @@
   - [Getting Started](#getting-started)
   - [Tools and Software](#tools-and-software)
   - [Tools and Software Used](#tools-and-software-used)
-  - [Practicals](#practicals)
+  - [Practical's](#practicals)
     - [ERD - School Management System](#erd---school-management-system)
     - [ERD - E-Commerce System](#erd---e-commerce-system)
+      - [V1](#v1)
     - [ERD - Task Management System](#erd---task-management-system)
       - [V1](#v1)
       - [V2](#v2)
+      - [V3](#v3)
   - [Conclusion](#conclusion)
 
 ## Overview
@@ -83,7 +85,7 @@ ERDs act as vital documentation for database systems, making it easier for new t
 ## Tools and Software
 
 Common ERD tools include:
-- Lucidchart
+- Lucid chart
 - Draw.io
 - MySQL Workbench
 - ERDPlus
@@ -97,7 +99,7 @@ Common ERD tools include:
 
 
 
-## Practicals
+## Practical's
 
 ### ERD - School Management System
 
@@ -105,6 +107,8 @@ Common ERD tools include:
 
 
 ### ERD - E-Commerce System
+
+#### V1
 
 ![Name_of_Image](./images/e-commerce.drawio.png)
 
@@ -115,7 +119,11 @@ Common ERD tools include:
 ![Name_of_Image](./images/task-management.drawio.png)
 
 #### V2
+
 ![Name_of_Image](./images/task-management2.drawio.png)
+
+#### V3
+![Name_of_Image](./images/task-management3.drawio.png)
 
 ## Conclusion
 
