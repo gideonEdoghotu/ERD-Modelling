@@ -24,6 +24,7 @@
       - [V1](#v1)
       - [V2](#v2)
       - [V3](#v3)
+      - [V4](#v4)
   - [Conclusion](#conclusion)
 
 ## Overview
@@ -124,6 +125,9 @@ Common ERD tools include:
 
 #### V3
 ![Name_of_Image](./images/task-management3.drawio.png)
+
+#### V4
+![Name_of_Image](./images/task-management4.drawio.png)
 
 ## Conclusion
 
